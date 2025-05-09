@@ -1,6 +1,7 @@
 package net.threemp.hardrecipes;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -13,6 +14,8 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.threemp.hardrecipes.item.ModCreativeModeTabs;
+import net.threemp.hardrecipes.item.ModItems;
 import org.slf4j.Logger;
 
 // Very important Comment
@@ -30,7 +33,9 @@ public class HardRecipes {
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
 
+        ModItems.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
@@ -44,7 +49,7 @@ public class HardRecipes {
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
