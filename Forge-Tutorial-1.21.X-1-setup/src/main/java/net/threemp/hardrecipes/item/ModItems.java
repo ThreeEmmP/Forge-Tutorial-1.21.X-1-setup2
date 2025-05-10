@@ -13,6 +13,12 @@ public class ModItems {
 
     public static final RegistryObject<Item> WAXEDTHREAD = ITEMS.register("waxedthread",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PLACEMAT = ITEMS.register("placemat",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> FIBER = ITEMS.register("fiber",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> TWINE = ITEMS.register("twine",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

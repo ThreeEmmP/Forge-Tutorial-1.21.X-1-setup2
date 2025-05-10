@@ -19,6 +19,9 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.hardrecipes.hard_recipes_items"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.WAXEDTHREAD.get());
+                        output.accept(ModItems.PLACEMAT.get());
+                        output.accept(ModItems.FIBER.get());
+                        output.accept(ModItems.TWINE.get());
 
                     })
                     .build());

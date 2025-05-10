@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "A": {
+      "item": "hardrecipes:waxedthread"
+    }
+  },
+  "pattern": [
+    "#A",
+    "A#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hardrecipes:placemat"
+  },
+  "show_notification": false
+}

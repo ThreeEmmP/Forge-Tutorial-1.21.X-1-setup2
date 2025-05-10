@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "hardrecipes:placemat"
+    },
+    "A": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "#",
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:crafting_table"
+  },
+  "show_notification": false
+}

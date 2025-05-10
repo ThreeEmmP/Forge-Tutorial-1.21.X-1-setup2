@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:honeycomb"
+    },
+    "A": {
+      "tag": "hardrecipes:string"
+    }
+  },
+  "pattern": [
+    "#A",
+    "A#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "hardrecipes:waxedthread"
+  },
+  "show_notification": false
+}
