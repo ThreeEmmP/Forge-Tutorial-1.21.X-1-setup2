@@ -4,6 +4,24 @@
   "item.hardrecipes.twine": "Twine",
   "item.hardrecipes.fiber": "Plant Fiber",
 
+  "item.hardrecipes.wooden_shears": "Wooden Shears",
 
-  "creativetab.hardrecipes.hard_recipes_items": "Hard Recipes Items"
+  "item.hardrecipes.candelilla": "Candelilla",
+  "item.hardrecipes.candelilla_wax": "Candelilla Wax",
+
+  "block.hardrecipes.block_of_doom": "Block of Doom",
+  "block.hardrecipes.candelilla_plant": "Candelilla Plant",
+
+  "item.hardrecipes.weak_tool_rod": "Weak Tool Rod",
+  "item.hardrecipes.weak_hilt": "Weak Hilt",
+  "item.hardrecipes.wooden_pickend": "Wooden Pick",
+  "item.hardrecipes.wooden_binding": "Wooden Binding",
+  "item.hardrecipes.wooden_axe_head": "Wooden Axe Head",
+  "item.hardrecipes.wooden_blade": "Wooden Blade",
+
+
+  "creativetab.hardrecipes.hard_recipes_items": "Hard Recipes Items",
+
+  "advancements.story.root.description": "The heart and story of the game",
+  "advancements.story.root.title": "Minecraft"
 }

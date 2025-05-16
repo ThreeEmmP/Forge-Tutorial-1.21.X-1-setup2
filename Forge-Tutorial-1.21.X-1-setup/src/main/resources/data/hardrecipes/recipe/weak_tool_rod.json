@@ -5,16 +5,23 @@
     "#": {
       "item": "minecraft:leather"
     },
-    "A": {
+    "S": {
       "item": "hardrecipes:waxedthread"
+    },
+    "/" : {
+      "item": "minecraft:stick"
+    },
+    "@": {
+      "item": "minecraft:red_dye"
     }
   },
   "pattern": [
-    "#A",
-    "A#"
+    " S ",
+    "#/@",
+    " S "
   ],
   "result": {
     "count": 1,
-    "id": "hardrecipes:placemat"
+    "id": "hardrecipes:weak_tool_rod"
   }
 }

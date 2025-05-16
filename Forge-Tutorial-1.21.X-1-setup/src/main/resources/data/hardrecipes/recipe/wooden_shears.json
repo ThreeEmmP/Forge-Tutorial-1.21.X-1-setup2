@@ -2,8 +2,11 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
+    "@": {
+      "item": "minecraft:stick"
+    },
     "#": {
-      "tag": "hardrecipes:wax"
+      "tag": "minecraft:planks"
     },
     "A": {
       "tag": "hardrecipes:string"
@@ -11,10 +14,10 @@
   },
   "pattern": [
     "#A",
-    "A#"
+    "@#"
   ],
   "result": {
-    "count": 2,
-    "id": "hardrecipes:waxedthread"
+    "count": 1,
+    "id": "hardrecipes:wooden_shears"
   }
 }

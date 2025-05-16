@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item" : "hardrecipes:candelilla"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "hardrecipes:candelilla_wax"
+  }
+}

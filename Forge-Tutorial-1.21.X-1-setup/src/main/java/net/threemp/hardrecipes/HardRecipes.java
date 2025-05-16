@@ -9,6 +9,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.threemp.hardrecipes.block.ModBlocks;
 import net.threemp.hardrecipes.item.ModCreativeModeTabs;
 import net.threemp.hardrecipes.item.ModItems;
 import net.threemp.hardrecipes.loot.ModLootModifiers;
@@ -30,6 +31,7 @@ public class HardRecipes {
 
         ModCreativeModeTabs.register(modEventBus);
 
+        ModBlocks.register(modEventBus);
         ModItems.register(modEventBus);
 
         // Register the item to a creative tab

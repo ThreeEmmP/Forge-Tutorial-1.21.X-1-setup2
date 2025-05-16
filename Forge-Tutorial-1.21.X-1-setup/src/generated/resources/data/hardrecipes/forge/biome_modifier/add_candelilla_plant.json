@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:savanna",
+    "minecraft:desert",
+    "minecraft:windswept_savanna",
+    "minecraft:badlands",
+    "minecraft:beach"
+  ],
+  "features": "hardrecipes:candelilla_placed",
+  "step": "vegetal_decoration"
+}
