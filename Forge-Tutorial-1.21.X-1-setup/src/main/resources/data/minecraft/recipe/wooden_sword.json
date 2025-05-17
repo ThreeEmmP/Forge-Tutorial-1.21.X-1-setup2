@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "hardrecipes:weak_tool_rod"
+    },
+    "S": {
+      "tag": "hardrecipes:string"
+    },
+    "-" : {
+      "item": "hardrecipes:weak_hilt"
+    },
+    "/" : {
+      "item": "hardrecipes:wooden_blade"
+    }
+  },
+  "pattern": [
+    " / ",
+    "S-S",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_tool_materials"
+    }
+  },
+  "pattern": [
+    " ##",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "hardrecipes:stone_pickend"
+  }
+}

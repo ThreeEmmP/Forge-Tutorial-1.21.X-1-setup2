@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "T": {
+      "item": "hardrecipes:iron_bolt"
+    },
+    "/" : {
+      "item": "hardrecipes:iron_rod"
+    },
+    "@": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "pattern": [
+    " T ",
+    "#/@",
+    " T "
+  ],
+  "result": {
+    "count": 1,
+    "id": "hardrecipes:sturdy_tool_rod"
+  }
+}

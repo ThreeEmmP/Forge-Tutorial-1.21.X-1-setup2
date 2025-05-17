@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "hardrecipes:weak_tool_rod"
+    },
+    "-": {
+      "item": "hardrecipes:weak_hilt"
+    },
+    "S": {
+      "tag": "hardrecipes:string"
+    },
+    "/" : {
+      "item": "hardrecipes:stone_blade"
+    }
+  },
+  "pattern": [
+    " / ",
+    "S-S",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_sword"
+  }
+}

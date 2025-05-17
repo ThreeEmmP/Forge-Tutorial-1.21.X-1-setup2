@@ -3,19 +3,16 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "minecraft:planks"
-    },
-    "A": {
-      "item": "minecraft:flint"
+      "tag": "minecraft:stone_tool_materials"
     }
   },
   "pattern": [
-    "A  ",
+    " # ",
     "###",
-    "A  "
+    "###"
   ],
   "result": {
     "count": 1,
-    "id": "hardrecipes:wooden_pickend"
+    "id": "hardrecipes:stone_spade"
   }
 }

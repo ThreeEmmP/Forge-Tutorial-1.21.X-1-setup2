@@ -5,17 +5,19 @@
     "#": {
       "tag": "minecraft:planks"
     },
-    "A": {
-      "item": "minecraft:flint"
+    "S": {
+      "tag": "hardrecipes:string"
+    },
+    "/": {
+      "item": "minecraft:stick"
     }
   },
   "pattern": [
-    "A  ",
-    "###",
-    "A  "
+    "/#/",
+    "S#S"
   ],
   "result": {
     "count": 1,
-    "id": "hardrecipes:wooden_pickend"
+    "id": "hardrecipes:weak_hilt"
   }
 }

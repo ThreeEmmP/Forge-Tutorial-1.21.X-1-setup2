@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "hardrecipes:sturdy_tool_rod"
+    },
+    "-": {
+      "item": "hardrecipes:sturdy_hilt"
+    },
+    "S": {
+      "item": "hardrecipes:iron_bolt"
+    },
+    "/" : {
+      "item": "hardrecipes:iron_blade"
+    }
+  },
+  "pattern": [
+    " / ",
+    "S-S",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword"
+  }
+}

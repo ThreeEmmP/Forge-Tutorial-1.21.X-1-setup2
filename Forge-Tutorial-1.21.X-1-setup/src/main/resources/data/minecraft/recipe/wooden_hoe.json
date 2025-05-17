@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "hardrecipes:weak_tool_rod"
+    },
+    "X": {
+      "item": "hardrecipes:wooden_binding"
+    },
+    "S": {
+      "tag": "hardrecipes:string"
+    },
+    "/" : {
+      "item": "hardrecipes:wooden_blade"
+    }
+  },
+  "pattern": [
+    "/X ",
+    "S#S",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_hoe"
+  }
+}

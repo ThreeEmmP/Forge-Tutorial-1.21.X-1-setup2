@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "hardrecipes:iron_bolt"
+    },
+    "/": {
+      "item": "hardrecipes:iron_rod"
+    }
+  },
+  "pattern": [
+    "/#/",
+    "T#T"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hardrecipes:sturdy_hilt"
+  }
+}

@@ -10,12 +10,12 @@
     }
   },
   "pattern": [
-    "A  ",
-    "###",
-    "A  "
+    " # ",
+    "A#A",
+    " # "
   ],
   "result": {
     "count": 1,
-    "id": "hardrecipes:wooden_pickend"
+    "id": "hardrecipes:wooden_blade"
   }
 }

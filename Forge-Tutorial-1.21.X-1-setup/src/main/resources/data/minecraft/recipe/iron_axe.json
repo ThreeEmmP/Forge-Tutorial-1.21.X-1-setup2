@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "hardrecipes:sturdy_tool_rod"
+    },
+    "X": {
+      "item": "hardrecipes:iron_binding"
+    },
+    "S": {
+      "item": "hardrecipes:iron_bolt"
+    },
+    "-" : {
+      "item": "hardrecipes:iron_axe_head"
+    }
+  },
+  "pattern": [
+    "-X ",
+    "S#S",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_axe"
+  }
+}

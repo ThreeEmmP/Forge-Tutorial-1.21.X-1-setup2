@@ -3,19 +3,19 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "minecraft:planks"
+      "item": "minecraft:iron_ingot"
     },
-    "A": {
-      "item": "minecraft:flint"
+    "-": {
+      "item": "minecraft:iron_nugget"
     }
   },
   "pattern": [
-    "A  ",
-    "###",
-    "A  "
+    "-#-",
+    "-#-",
+    "-#-"
   ],
   "result": {
     "count": 1,
-    "id": "hardrecipes:wooden_pickend"
+    "id": "hardrecipes:iron_blade"
   }
 }

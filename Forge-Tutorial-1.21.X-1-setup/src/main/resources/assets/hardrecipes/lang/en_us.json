@@ -13,14 +13,50 @@
   "block.hardrecipes.candelilla_plant": "Candelilla Plant",
 
   "item.hardrecipes.weak_tool_rod": "Weak Tool Rod",
+  "item.hardrecipes.sturdy_tool_rod": "Sturdy Tool Rod",
+  "item.hardrecipes.strong_tool_rod": "Strong Tool Rod",
+
   "item.hardrecipes.weak_hilt": "Weak Hilt",
+  "item.hardrecipes.sturdy_hilt": "Sturdy Hilt",
+  "item.hardrecipes.strong_hilt": "Strong Hilt",
+
+
   "item.hardrecipes.wooden_pickend": "Wooden Pick",
   "item.hardrecipes.wooden_binding": "Wooden Binding",
   "item.hardrecipes.wooden_axe_head": "Wooden Axe Head",
   "item.hardrecipes.wooden_blade": "Wooden Blade",
+  "item.hardrecipes.wooden_spade": "Wooden Spade",
+
+  "item.hardrecipes.stone_pickend": "Stone Pick",
+  "item.hardrecipes.stone_binding": "Stone Binding",
+  "item.hardrecipes.stone_axe_head": "Stone Axe Head",
+  "item.hardrecipes.stone_blade": "Stone Blade",
+  "item.hardrecipes.stone_spade": "Stone Spade",
+
+  "item.hardrecipes.iron_pickend": "Iron Pick",
+  "item.hardrecipes.iron_binding": "Iron Binding",
+  "item.hardrecipes.iron_axe_head": "Iron Axe Head",
+  "item.hardrecipes.iron_blade": "Iron Blade",
+  "item.hardrecipes.iron_spade": "Iron Spade",
+
+  "item.hardrecipes.golden_pickend": "Golden Pick",
+  "item.hardrecipes.golden_binding": "Golden Binding",
+  "item.hardrecipes.golden_axe_head": "Golden Axe Head",
+  "item.hardrecipes.golden_blade": "Golden Blade",
+  "item.hardrecipes.golden_spade": "Golden Spade",
+
+  "item.hardrecipes.diamond_pickend": "Diamond Pick",
+  "item.hardrecipes.diamond_binding": "Diamond Binding",
+  "item.hardrecipes.diamond_axe_head": "Diamond Axe Head",
+  "item.hardrecipes.diamond_blade": "Diamond Blade",
+  "item.hardrecipes.diamond_spade": "Diamond Spade",
+
+  "item.hardrecipes.iron_bolt": "Iron Bolt",
+  "item.hardrecipes.iron_rod": "Iron Rod",
 
 
   "creativetab.hardrecipes.hard_recipes_items": "Hard Recipes Items",
+  "creativetab.hardrecipes.to_be_deprecated": "To be deprecated maybe",
 
   "advancements.story.root.description": "The heart and story of the game",
   "advancements.story.root.title": "Minecraft"

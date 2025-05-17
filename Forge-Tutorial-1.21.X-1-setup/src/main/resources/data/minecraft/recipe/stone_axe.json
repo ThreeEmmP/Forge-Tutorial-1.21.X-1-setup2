@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "hardrecipes:weak_tool_rod"
+    },
+    "X": {
+      "item": "hardrecipes:stone_binding"
+    },
+    "S": {
+      "tag": "hardrecipes:string"
+    },
+    "-" : {
+      "item": "hardrecipes:stone_axe_head"
+    }
+  },
+  "pattern": [
+    "-X ",
+    "S#S",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_axe"
+  }
+}
